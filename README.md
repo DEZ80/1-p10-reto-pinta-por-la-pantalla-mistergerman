@@ -6,14 +6,14 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 ## Actividad 1: Píxel entre letras
 El píxel debe estar fuera de la primera fila de pantalla.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 78 C0 18 fe
 ```
 PC: 4000
 
 ## Actividad 2: Tres píxeles debajo de 3 letras
 Los píxeles deben ser de 3 colores distintos y no estar en la primera fila de pantalla.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 A5 C0 21 40 04 22 A6 C0 18 3f
 ```
 PC: 4000
 
