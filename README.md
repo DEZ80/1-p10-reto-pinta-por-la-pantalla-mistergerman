@@ -1,4 +1,4 @@
-# RETO 1.P10: Pinta por la pantalla
+f3# RETO 1.P10: Pinta por la pantalla
 Copia más abajo tus programas, cada uno en su parte del reto.
 
 # PROGRAMAS
@@ -13,21 +13,21 @@ PC: 4000
 ## Actividad 2: Tres píxeles debajo de 3 letras
 Los píxeles deben ser de 3 colores distintos y no estar en la primera fila de pantalla.
 ```
-3E 88 32 A5 C0 21 40 04 22 A6 C0 18 3f
+3E 88 32 A5 C0 21 40 04 22 A6 C0 18 f3
 ```
 PC: 4000
 
 ## Actividad 3: Columna de 5 píxeles consecutivos
 Los píxeles deben formar un dibujito en vertical, en la misma columna.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 00 C0 3E 40 32 00 C8 3E 04 32 00 D0 3E 04 32 00 D8 3E 88 32 00 E0 F3
 ```
 PC: 4000
 
 ## Actividad 4: Minidibujo en 3 columnas
 Mínimo 4 filas de altura y 3 columnas distintas.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 50 C0 21 88 88 22 51 C0 3E 40 32 50 C8 21 40 40 22 51 C8 3E 04 32 50 D0 21 04 04 22 51 D0 18 F3
 ```
 PC: 4000
 
